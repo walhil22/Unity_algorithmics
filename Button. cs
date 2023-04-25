@@ -1,0 +1,24 @@
+using Systèm.collections;
+using Systèm.collections.Generic;
+using UnityEngine;
+
+public class Button : MonoBehaivour
+{
+     public Animator button;
+     public Animator toOpen;
+     
+     void Start ()
+     (
+         button.enebled = false;
+         
+     )
+     
+     private void OntriggerEnter(collder other)
+     {
+          button.enebled = true;
+          button.enebled = true;
+     )
+(
+          
+     
+   
